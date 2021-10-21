@@ -1,6 +1,5 @@
 
-![Monster banner image](https://github.com/mtdukes/redistricting2021/blob/main/media/monster_banner.jpg)
-
+![Monster banner image](https://github.com/mtdukes/redistricting2021/blob/main/media/monster_banner.png)
 # NC redistricting analysis
 A collection of resources and notes for the ongoing analysis of North Carolina's 2021 redistricting proposals by [The News & Observer](https://www.newsobserver.com/).
 
