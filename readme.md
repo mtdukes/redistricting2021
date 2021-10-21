@@ -1,11 +1,21 @@
+
+![Monster banner image](https://github.com/mtdukes/redistricting2021/blob/main/media/monster_banner.jpg)
+
 # NC redistricting analysis
-A collection of resources and notes for the ongoing analysis of North Carolina's 2021 redistricting proposals.
+A collection of resources and notes for the ongoing analysis of North Carolina's 2021 redistricting proposals by [The News & Observer](https://www.newsobserver.com/).
+
+Largely sourced from the N.C. General Assembly's:
+
+ - [House Redistricting Committee](https://ncleg.gov/Committees/CommitteeInfo/HouseStanding/182#Documents)
+ - [Senate Redistricting and Elections Committee](https://ncleg.gov/Committees/CommitteeInfo/SenateStanding/154#Documents)
 
 A work in progress.
 
 For background, [read up from The News & Observer's Will Doran](https://www.newsobserver.com/news/politics-government/article255119247.html).
 
 Complain to [@mtdukes](http://twitter.com/mtdukes).
+
+Want to learn more about redistricting? Check out our four-part podcast, [Monster: Maps, Math and Power in North Carolina.](https://www.newsobserver.com/monster)
 
 ## Senate proposals 
 The following links to the block assignment files for each proposal.
