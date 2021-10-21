@@ -3,6 +3,8 @@ A collection of resources and notes for the ongoing analysis of North Carolina's
 
 A work in progress.
 
+For background, [read up from The News & Observer's Will Doran](https://www.newsobserver.com/news/politics-government/article255119247.html).
+
 Complain to [@mtdukes](http://twitter.com/mtdukes).
 
 ## Senate proposals 
