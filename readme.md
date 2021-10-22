@@ -16,68 +16,66 @@ Complain to the N&O's [@mtdukes](http://twitter.com/mtdukes).
 
 Want to learn more about redistricting? Check out our four-part podcast, [Monster: Maps, Math and Power in North Carolina.](https://www.newsobserver.com/monster)
 
-## Senate proposals 
-The following links to the block assignment files for each proposal.
+## N.C. Senate proposals 
+Maps and related files [proposed](https://ncleg.gov/Committees/CommitteeInfo/SenateStanding/154#2021%5CMember%20Submitted%20Maps) by members of the North Carolina state Senate.
 
-### CBK-3
-Congressional proposal.
+### Congressional
+14 districts.
 
-[Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk3.csv)
+#### CBK-3
+- [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk3.csv)
+- [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk3)
+- [DRA interactive](https://davesredistricting.org/maps#viewmap::656feac5-fde7-4ef4-90e3-2ca28411476b)
 
-[Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk3)
+#### CBK-4
+- [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk4.csv)
+- [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk4)
+- [DRA interactive](https://davesredistricting.org/maps#viewmap::37de15ce-69ba-4f0b-883c-ef27cb1cdf08)
 
-[DRA interactive](https://davesredistricting.org/maps#viewmap::656feac5-fde7-4ef4-90e3-2ca28411476b)
+#### CBK-5
+- [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk5.csv)
+- [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk5)
+- [DRA interactive](https://davesredistricting.org/maps#viewmap::007275e0-3776-47c1-8fbc-e4e2452de6c9)
 
-### CBK-4
-Congressional proposal.
+#### CMT-9
+- [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cmt9.csv)
+- [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cmt9)
+- [DRA interactive](https://davesredistricting.org/maps#viewmap::8406e5d4-7a81-485c-92df-699637929918)
 
-[Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk4.csv)
+#### CST-2
+- [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst2.csv)
+- [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst2)
+- [DRA interactive](https://davesredistricting.org/maps#viewmap::947a70bd-8660-4829-a887-7bb35a0f3aff)
 
-[Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk4)
+#### CST-6
+- [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst6.csv)
+- [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst6)
+- [DRA interactive](https://davesredistricting.org/maps#viewmap::c0632322-f2ec-4d0a-b6d4-656a6d819e74)
 
-[DRA interactive](https://davesredistricting.org/maps#viewmap::37de15ce-69ba-4f0b-883c-ef27cb1cdf08)
+### N.C. Senate
+50 districts.
 
-### CBK-5
-Congressional proposal.
+#### SST-4
+- [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/sst4.csv)
+- [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/sst4)
+- [DRA interactive](https://davesredistricting.org/maps#viewmap::138c4a4d-f096-465e-9d83-3be4e1e896e9)
 
-[Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk5.csv)
+## State House proposals 
+Maps and related files [proposed](https://ncleg.gov/Committees/CommitteeInfo/HouseStanding/182#2021\Member%20Submitted%20Maps) by members of the North Carolina state House.
 
-[Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk5)
+### Congressional
+14 districts.
 
-[DRA interactive](https://davesredistricting.org/maps#viewmap::007275e0-3776-47c1-8fbc-e4e2452de6c9)
+#### CBA-2
 
-### CMT-9
-Congressional proposal.
+ - [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cba2.csv)
+ - [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cba2)
+ - [DRA interactive](https://davesredistricting.org/maps#viewmap::0dee099c-2f85-4d0f-bd81-39fe5805b5dd)
 
-[Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cmt9.csv)
+### N.C. House
+120 districts.
 
-[Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cmt9)
-
-[DRA interactive](https://davesredistricting.org/maps#viewmap::8406e5d4-7a81-485c-92df-699637929918)
-
-### CST-2
-Congressional proposal.
-
-[Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst2.csv)
-
-[Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst2)
-
-[DRA interactive](https://davesredistricting.org/maps#viewmap::947a70bd-8660-4829-a887-7bb35a0f3aff)
-
-### CST-6
-Congressional proposal
-
-[Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst6.csv)
-
-[Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst6)
-
-[DRA interactive](https://davesredistricting.org/maps#viewmap::c0632322-f2ec-4d0a-b6d4-656a6d819e74)
-
-### SST-4
-N.C. Senate proposal.
-
-[Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/sst4.csv)
-
-[Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/sst4)
-
-[DRA interactive](https://davesredistricting.org/maps#viewmap::138c4a4d-f096-465e-9d83-3be4e1e896e9)
+#### HBK-11
+- [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/hbk11.csv)
+- [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/hbk11)
+- [DRA interactive](https://davesredistricting.org/maps#viewmap::d61471bc-e2b3-43f3-a7c4-f2993c6383be)
