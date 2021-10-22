@@ -12,7 +12,7 @@ A work in progress.
 
 For background, [read up from The News & Observer's Will Doran](https://www.newsobserver.com/news/politics-government/article255119247.html).
 
-Complain to [@mtdukes](http://twitter.com/mtdukes).
+Complain to the N&O's [@mtdukes](http://twitter.com/mtdukes).
 
 Want to learn more about redistricting? Check out our four-part podcast, [Monster: Maps, Math and Power in North Carolina.](https://www.newsobserver.com/monster)
 
@@ -63,6 +63,15 @@ Congressional proposal.
 [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst2)
 
 [DRA interactive](https://davesredistricting.org/maps#viewmap::947a70bd-8660-4829-a887-7bb35a0f3aff)
+
+### CST-6
+Congressional proposal
+
+[Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst6.csv)
+
+[Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cst6)
+
+[DRA interactive](https://davesredistricting.org/maps#viewmap::c0632322-f2ec-4d0a-b6d4-656a6d819e74)
 
 ### SST-4
 N.C. Senate proposal.
