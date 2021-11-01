@@ -19,7 +19,7 @@ Want to learn more about redistricting? Check out our four-part podcast, [Monste
 Maps and related files [proposed](https://ncleg.gov/Committees/CommitteeInfo/SenateStanding/154#2021%5CMember%20Submitted%20Maps) by members of the North Carolina state Senate.
 
 ### Congressional
-14 districts.
+14 districts. Ideal population: 745,671
 
 #### CBK-3
 - [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cbk3.csv)
@@ -52,7 +52,9 @@ Maps and related files [proposed](https://ncleg.gov/Committees/CommitteeInfo/Sen
 - [DRA interactive](https://davesredistricting.org/maps#viewmap::c0632322-f2ec-4d0a-b6d4-656a6d819e74)
 
 ### N.C. Senate
-50 districts. Based on county clustering established by the Stephenson ruling:
+50 districts. Ideal population: 208,788 (+/- 10,439.4)
+
+Based on county clustering established by the Stephenson ruling:
 - 10 districts are fixed inside a single county cluster
 - 26 districts are contained in 7 fixed county clusters
 - 14 districts are contained in 4 groups of county clusters with 2 choices each, or 16 combinations total
@@ -72,16 +74,17 @@ This N.C. Senate map proposal uses the following county cluster choice (Duke_Sen
 Maps and related files [proposed](https://ncleg.gov/Committees/CommitteeInfo/HouseStanding/182#2021\Member%20Submitted%20Maps) by members of the North Carolina state House.
 
 ### Congressional
-14 districts. 
+14 districts. Ideal population: 745,671
 
 #### CBA-2
-
  - [Block assignment file (csv)](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cba2.csv)
  - [Shapefiles](https://github.com/mtdukes/redistricting2021/blob/main/data/proposals/cba2)
  - [DRA interactive](https://davesredistricting.org/maps#viewmap::0dee099c-2f85-4d0f-bd81-39fe5805b5dd)
 
 ### N.C. House
-120 districts. Based on county clustering established by the Stephenson ruling:
+120 districts. Ideal population: 86,995 (+/- 4,349.75)
+
+Based on county clustering established by the Stephenson ruling:
 - 11 districts are fixed inside a single county cluster
 - 96 districts are contained in 22 fixed county clusters
 - 13 districts are contained in 3 groups of county clusters with 2 choices each, or 8 combinations total
