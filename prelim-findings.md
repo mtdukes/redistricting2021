@@ -18,24 +18,24 @@ TK
 ### Comparing overall outcomes
 
 #### U.S. President, 2020
-![us_president20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/us_president20_mcd.png)
-![us_president20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/us_president20_nomcd.png)
+![us_president20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/us_president20_mcd.png)
+![us_president20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/us_president20_nomcd.png)
 
 #### U.S. Senate, 2020
-![us_senate20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/us_senate20_mcd.png)
-![us_senate20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/us_senate20_nomcd.png)
+![us_senate20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/us_senate20_mcd.png)
+![us_senate20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/us_senate20_nomcd.png)
 
 #### N.C. Governor, 2020
-![governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/governor20_mcd.png)
-![governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/governor20_nomcd.png)
+![governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/governor20_mcd.png)
+![governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/governor20_nomcd.png)
 
 #### N.C. Lt. Governor, 2020
-![lt_governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/lt_governor20_mcd.png)
-![lt_governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/lt_governor20_nomcd.png)
+![lt_governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/lt_governor20_mcd.png)
+![lt_governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/lt_governor20_nomcd.png)
 
 #### N.C. Attorney General, 2020
-![attorney_general20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/attorney_general20_mcd.png)
-![attorney_general20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/attorney_general20_nomcd.png)
+![attorney_general20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/attorney_general20_mcd.png)
+![attorney_general20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/attorney_general20_nomcd.png)
 
 ### Comparing outcomes by district
 
