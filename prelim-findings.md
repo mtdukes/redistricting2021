@@ -16,37 +16,72 @@ TK
 ## Findings
 
 ### Comparing overall outcomes
+Each race includes two charts. One uses an ensemble of 100,000 maps that includes respect for boundaries of cities and towns as part of the redistricting criteria. The other uses an ensemble that does not.
 
 #### U.S. President, 2020
 ![us_president20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/us_president20_mcd.png)
+*Ensemble respects municipal boundaries*.
+
 ![us_president20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/us_president20_nomcd.png)
+
 
 #### U.S. Senate, 2020
 ![us_senate20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/us_senate20_mcd.png)
+*Ensemble respects municipal boundaries*.
+
 ![us_senate20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/us_senate20_nomcd.png)
 
 #### N.C. Governor, 2020
 ![governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/governor20_mcd.png)
+*Ensemble respects municipal boundaries*.
+
 ![governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/governor20_nomcd.png)
 
 #### N.C. Lt. Governor, 2020
 ![lt_governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/lt_governor20_mcd.png)
+*Ensemble respects municipal boundaries*.
+
 ![lt_governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/lt_governor20_nomcd.png)
 
 #### N.C. Attorney General, 2020
 ![attorney_general20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/attorney_general20_mcd.png)
+*Ensemble respects municipal boundaries.*
+
 ![attorney_general20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/attorney_general20_nomcd.png)
 
 ### Comparing outcomes by district
+Each race includes two charts. One uses an ensemble of 100,000 maps that includes respect for boundaries of cities and towns as part of the redistricting criteria. The other uses an ensemble that does not.
 
 #### U.S. President, 2020
+![us_president20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_us_president20_mcd.png)
+*Ensemble respects municipal boundaries.*
+
+![us_president20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_us_president20_nomcd.png)
 
 #### U.S. Senate, 2020
+![us_senate20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_us_senate20_mcd.png)
+*Ensemble respects municipal boundaries.*
+
+![us_senate20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_us_senate20_nomcd.png)
 
 #### N.C. Governor, 2020
 
+![governor20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_governor20_mcd.png)
+*Ensemble respects municipal boundaries.*
+
+![governor20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_governor20_nomcd.png)
+
 #### N.C. Lt. Governor, 2020
+![lt_governor20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_lt_governor20_mcd.png)
+*Ensemble respects municipal boundaries.*
+
+![lt_governor20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_lt_governor20_nomcd.png)
 
 #### N.C. Attorney General, 2020
+![attorney_general20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_attorney_general20_mcd.png)
+*Ensemble respects municipal boundaries.*
+
+![attorney_general20](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/box_attorney_general20_nomcd.png)
 
 ## Methodology
+TK
