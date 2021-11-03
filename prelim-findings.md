@@ -66,11 +66,6 @@ The accompanying table shows how the result of the graph are distributed across 
 |                23|           6,201|             6.2|
 |                24|              0|             0.0|
 |                25|              0|             0.0|
-|                26|              0|             0.0|
-|                27|              0|             0.0|
-|                28|              0|             0.0|
-|                29|              0|             0.0|
-|                30|              0|             0.0|
 
 ##### U.S. Senate, 2020
 ![us_senate20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/sst13_2e_us_senate20_mcd.png)
@@ -88,22 +83,12 @@ The accompanying table shows how the result of the graph are distributed across 
 |                23|          10,821|            10.8|
 |                24|           1,053|             1.1|
 |                25|              0|             0.0|
-|                26|              0|             0.0|
-|                27|              0|             0.0|
-|                28|              0|             0.0|
-|                29|              0|             0.0|
-|                30|              0|             0.0|
 
 ##### N.C. Governor, 2020
 ![governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/sst13_2e_governor20_mcd.png)
 
 | Democrats elected| Number of maps| Percent of maps|
 |-----------------:|--------------:|---------------:|
-|                15|              0|             0.0|
-|                16|              0|             0.0|
-|                17|              0|             0.0|
-|                18|              0|             0.0|
-|                19|              0|             0.0|
 |                20|              0|             0.0|
 |                21|              0|             0.0|
 |                22|              0|             0.0|
@@ -132,50 +117,125 @@ The accompanying table shows how the result of the graph are distributed across 
 |                23|            335|             0.3|
 |                24|              0|             0.0|
 |                25|              0|             0.0|
-|                26|              0|             0.0|
-|                27|              0|             0.0|
-|                28|              0|             0.0|
-|                29|              0|             0.0|
-|                30|              0|             0.0|
 
 ##### N.C. Attorney General, 2020
 ![attorney_general20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/sst13_2e_attorney_general20_mcd.png)
 
 | Democrats elected| Number of maps| Percent of maps|
 |-----------------:|--------------:|---------------:|
-|                15|              0|             0.0|
-|                16|              0|             0.0|
-|                17|              0|             0.0|
-|                18|              0|             0.0|
-|                19|              0|             0.0|
 |                20|              0|             0.0|
 |                21|           4,344|             4.3|
 |                22|          41,570|            41.6|
 |                **23**|          **45,519**|            **45.5**|
 |                24|           8,567|             8.6|
 |                25|              0|             0.0|
-|                26|              0|             0.0|
-|                27|              0|             0.0|
-|                28|              0|             0.0|
-|                29|              0|             0.0|
-|                30|              0|             0.0|
 
 #### N.C. House proposal (HBK-14, [HB 976](https://www.ncleg.gov/BillLookUp/2021/H976), 3rd edition)
 
 ##### U.S. President, 2020
 ![president20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/hbk14_3e_president20_mcd.png)
+| Democrats elected| Number of maps| Percent of maps|
+|-----------------:|--------------:|---------------:|
+|                50|              0|             0.0|
+|                51|              0|             0.0|
+|                52|             12|             0.0|
+|                53|            273|             0.3|
+|                54|           2,011|             2.0|
+|                55|           9,739|             9.7|
+|                56|          27,419|            27.4|
+|                **57**|          **35,328**|            **35.3**|
+|                58|          20,174|            20.2|
+|                59|           4,684|             4.7|
+|                60|            350|             0.4|
+|                61|             10|             0.0|
+|                62|              0|             0.0|
+|                63|              0|             0.0|
+|                64|              0|             0.0|
+|                65|              0|             0.0|
 
 ##### U.S. Senate, 2020
 ![us_senate20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/hbk14_3e_us_senate20_mcd.png)
+| Democrats elected| Number of maps| Percent of maps|
+|-----------------:|--------------:|---------------:|
+|                45|              0|             0.0|
+|                46|              0|             0.0|
+|                47|              0|             0.0|
+|                48|              0|             0.0|
+|                49|             19|             0.0|
+|                50|            134|             0.1|
+|                51|           1,010|             1.0|
+|                52|           4,819|             4.8|
+|                53|          16,518|            16.5|
+|                54|          33,293|            33.3|
+|                **55**|          **34,299**|            **34.3**|
+|                56|           8,909|             8.9|
+|                57|            961|             1.0|
+|                58|             37|             0.0|
+|                59|              1|             0.0|
+|                60|              0|             0.0|
 
 ##### N.C. Governor, 2020
 ![governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/hbk14_3e_governor20_mcd.png)
+| Democrats elected| Number of maps| Percent of maps|
+|-----------------:|--------------:|---------------:|
+|                55|              0|             0.0|
+|                56|              0|             0.0|
+|                57|              0|             0.0|
+|                58|            210|             0.2|
+|                59|           3,504|             3.5|
+|                60|          15,312|            15.3|
+|                61|          27,976|            28.0|
+|                **62**|          **28,303**|            **28.3**|
+|                63|          17,402|            17.4|
+|                64|           6,069|             6.1|
+|                65|           1,127|             1.1|
+|                66|             94|             0.1|
+|                67|              3|             0.0|
+|                68|              0|             0.0|
+|                69|              0|             0.0|
+|                70|              0|             0.0|
 
 ##### N.C. Lt. Governor, 2020
 ![lt_governor20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/hbk14_3e_lt_governor20_mcd.png)
+| Democrats elected| Number of maps| Percent of maps|
+|-----------------:|--------------:|---------------:|
+|                45|              0|             0.0|
+|                46|              0|             0.0|
+|                47|             12|             0.0|
+|                48|            194|             0.2|
+|                49|           1,693|             1.7|
+|                50|           8,204|             8.2|
+|                51|          22,086|            22.1|
+|                **52**|          **34,211**|            **34.2**|
+|                53|          24,477|            24.5|
+|                54|           7,768|             7.8|
+|                55|           1,263|             1.3|
+|                56|             90|             0.1|
+|                57|              2|             0.0|
+|                58|              0|             0.0|
+|                59|              0|             0.0|
+|                60|              0|             0.0|
 
 ##### N.C. Attorney General, 2020
 ![attorney_general20_chart](https://github.com/mtdukes/redistricting2021/blob/main/media/charts/hbk14_3e_attorney_general20_mcd.png)
+| Democrats elected| Number of maps| Percent of maps|
+|-----------------:|--------------:|---------------:|
+|                50|              0|             0.0|
+|                51|              0|             0.0|
+|                52|             14|             0.0|
+|                53|            524|             0.5|
+|                54|           4,688|             4.7|
+|                55|          20,876|            20.9|
+|                **56**|          **36,025**|            **36.0**|
+|                57|          26,908|            26.9|
+|                58|           9,434|             9.4|
+|                59|           1,424|             1.4|
+|                60|            102|             0.1|
+|                61|              5|             0.0|
+|                62|              0|             0.0|
+|                63|              0|             0.0|
+|                64|              0|             0.0|
+|                65|              0|             0.0|
 
 ### Comparing outcomes by district
 The charts below show the percentage of the vote for the Democratic candidate for each district from most Republican to most Democratic, calculated by re-sorting precinct level results from 2020 races into each of the 100,000 district plans created by the Duke Quantifying Gerrymandering team. The dot indicates the same percentage using votes re-sorted into the 2021 map proposal, again sorted from most Republican to most Democratic.
